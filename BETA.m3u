@@ -1,2 +1,22 @@
-#EXTINF:-1,tvg-id="多屏" tvg-name="多屏" tvg-logo="https://epg.112114.xyz/logo/多屏.png" group-title="其他",多屏
-http://cmhiott.hvs.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州综合 FHD
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2809529842_-2070680032/PLTV/88888888/224/3221229307/index.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州综合
+http://live.hoolo.tv/hztv1/sd/live.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",浙江·杭州西湖明珠 FHD
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2832762804_-1734620123/PLTV/88888888/224/3221229310/index.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png",浙江·杭州西湖明珠
+http://live.hoolo.tv/hztv2/sd/live.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州生活 FHD
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2848313566_-100055911/PLTV/88888888/224/3221229313/index.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州生活
+http://live.hoolo.tv/hztv3/sd/live.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州影视 FHD
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2866990275_-1477869556/PLTV/88888888/224/3221229377/index.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州影视
+http://live.hoolo.tv/hztv4/sd/live.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州体育 FHD
+http://hms363nc1880172761.live.aikan.miguvideo.com/wh7f454c46tw2880854862_-704780469/PLTV/88888888/224/3221229316/index.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州青少体育
+http://live.hoolo.tv/hztv5/sd/live.m3u8
+#EXTINF:-1 group-title="省市地方",浙江·杭州导视
+http://live.hoolo.tv/hztv6/sd/live.m3u8
