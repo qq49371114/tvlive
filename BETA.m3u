@@ -1,31 +1,3 @@
-#EXTINF:-1,书画频道 576
-http://[2409:8087:4400:20:1:a0f:12:10]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226343/index.m3u8
-#EXTINF:-1,书画频道 576
-http://[2409:8087:4402:20:1:1216:401:39]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226698/index.m3u8\
-#EXTINF:-1,天元围棋 576
-http://[2409:8087:4402:20:1:1216:401:15]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-#EXTINF:-1,天元围棋 576
-http://[2409:8087:4400:20:1:a0f:12:2d]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226607/index.m3u8
-#EXTINF:-1,随机🔞电影
-http://aiyun.work.gd/sjdy.php
-#EXTINF:-1,四屏同播
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.107:5146
-#EXTINF:-1,四屏同播
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.209:5146
-#EXTINF:-1,四屏同播
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.192:5146
-#EXTINF:-1,九屏同播
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.234:5146
-#EXTINF:-1,九频同播频道
-http://cysan.gzcy020.com.cn:50000/rtp/239.0.10.115:5115
-#EXTINF:-1,卫星信号传输故障高清
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.240:5146
-#EXTINF:-1,天翼高清
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.133:5146
-#EXTINF:-1,天翼高清
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.220:5146
-#EXTINF:-1,天翼高清
-http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.226:5146
 #EXTINF:-1,许氏三杰
 http://cfss.cc/cdn/hy/11602033.flv
 #EXTINF:-1,许冠英
@@ -108,7 +80,3 @@ http://cfss.cc/cdn/hy/23865058.flv
 http://cfss.cc/cdn/hy/23865161.flv
 #EXTINF:-1,梁朝伟版鹿鼎记
 http://cfss.cc/cdn/hy/23734183.flv
-#EXTINF:-1,百视通4K
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1,4K修复 7M
-http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
