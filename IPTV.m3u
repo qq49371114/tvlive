@@ -441,6 +441,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m
 #EXTINF:-1 tvg-id="梨园" tvg-name="梨园" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/梨园频道.png" group-title="📺 河南頻道",梨园频道
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河南卫视.png" group-title="📺 河南頻道",河南卫视
+http://v.vlanl.com:4022/udp/225.1.4.98:1127
 #EXTINF:-1,tvg-id="河南都市" tvg-name="河南都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河南都市.png" group-title="📺 河南頻道",河南都市
 http://v.vlanl.com:4022/udp/225.1.4.52:1081
 #EXTINF:-1,tvg-id="河南民生" tvg-name="河南民生" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河南民生.png" group-title="📺 河南頻道",河南民生
@@ -475,8 +477,6 @@ http://v.vlanl.com:4022/udp/225.1.5.48:1358
 http://v.vlanl.com:4022/udp/225.1.4.194:1244
 #EXTINF:-1,tvg-id="国学" tvg-name="国学" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/国学频道.png" group-title="📺 河南頻道",国学频道
 http://v.vlanl.com:4022/udp/225.1.4.196:1311
-#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河南卫视.png" group-title="📺 河南頻道",河南卫视
-http://v.vlanl.com:4022/udp/225.1.4.98:1127
 #EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南頻道",欢腾购物 Ⅰ
 http://v.vlanl.com:4022/udp/225.1.4.57:1086
 #EXTINF:-1,tvg-id="河南欢腾购物" tvg-name="河南欢腾购物" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河南欢腾购物.png" group-title="📺 河南頻道",欢腾购物 Ⅱ
