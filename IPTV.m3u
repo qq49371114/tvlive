@@ -691,6 +691,8 @@ http://jd.sy012.com:4000/udp/232.0.0.156:9322
 http://jd.sy012.com:4000/udp/232.0.0.155:9320
 #EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育青少" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁教育青少.png" group-title="📺 遼甯頻道",辽宁教育青少•大连
 http://jd.sy012.com:4000/udp/232.0.0.230:9356
+#EXTINF:-1,tvg-id="辽宁移动电视" tvg-name="辽宁移动电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁移动电视.png" group-title="📺 遼甯頻道",辽宁移动电视•大连
+http://jd.sy012.com:4000/udp/232.0.0.167:9338
 
 #📺 安徽頻道
 #EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/安徽经济生活.png" group-title="📺 安徽頻道",经济生活
