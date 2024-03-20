@@ -689,28 +689,8 @@ http://jd.sy012.com:4000/udp/232.0.0.212:9242
 http://jd.sy012.com:4000/udp/232.0.0.156:9322
 #EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁经济.png" group-title="📺 遼甯頻道",辽宁经济•大连
 http://jd.sy012.com:4000/udp/232.0.0.155:9320
-#EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁教育青少.png" group-title="📺 遼甯頻道",辽宁教育青少•大连
+#EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育青少" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁教育青少.png" group-title="📺 遼甯頻道",辽宁教育青少•大连
 http://jd.sy012.com:4000/udp/232.0.0.230:9356
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁卫视.png" group-title="📺 遼甯頻道",辽宁卫视•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000058
-#EXTINF:-1 tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁都市.png" group-title="📺 遼甯頻道",辽宁都市•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000610
-#EXTINF:-1 tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁体育.png" group-title="📺 遼甯頻道",辽宁体育•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000611
-#EXTINF:-1 tvg-id="辽宁北方" tvg-name="辽宁北方" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁北方.png" group-title="📺 遼甯頻道",辽宁北方•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000071
-#EXTINF:-1 tvg-id="辽宁影视剧" tvg-name="辽宁影视剧" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁影视剧.png" group-title="📺 遼甯頻道",辽宁影视剧•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=420000007
-#EXTINF:-1 tvg-id="辽宁生活" tvg-name="辽宁生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁生活.png" group-title="📺 遼甯頻道",辽宁生活•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000073
-#EXTINF:-1 tvg-id="辽宁公共" tvg-name="辽宁公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁公共.png" group-title="📺 遼甯頻道",辽宁公共•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000077
-#EXTINF:-1 tvg-id="辽宁经济" tvg-name="辽宁经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁经济.png" group-title="📺 遼甯頻道",辽宁经济•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000076
-#EXTINF:-1 tvg-id="辽宁青少" tvg-name="辽宁教育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁教育青少.png" group-title="📺 遼甯頻道",辽宁教育青少•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000075
-#EXTINF:-1 tvg-id="辽宁新动漫" tvg-name="辽宁新动漫" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/辽宁新动漫.png" group-title="📺 遼甯頻道",辽宁新动漫•沈阳
-http://live.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000140
 
 #📺 安徽頻道
 #EXTINF:-1 tvg-id="安徽经济生活" tvg-name="安徽经济生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/安徽经济生活.png" group-title="📺 安徽頻道",经济生活
