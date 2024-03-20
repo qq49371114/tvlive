@@ -131,3 +131,5 @@ http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8?zguangxd
 http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8?zguangxd
 #EXTINF:-1,tvg-id="南宁影娱乐" tvg-name="南宁影娱乐" tvg-logo="https://epg.112114.xyz/logo/南宁影娱乐.png" group-title="其他",南宁影娱乐
 http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8?zguangxd
+#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="辽宁",辽宁新动漫
+http://113.117.74.12:8081/hls/115/index.m3u8
