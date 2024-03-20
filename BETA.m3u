@@ -10,3 +10,9 @@ http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.234:5146
 http://cysan.gzcy020.com.cn:50000/rtp/239.0.10.115:5115
 #EXTINF:-1 ,卫星信号传输故障高清
 http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.240:5146
+#EXTINF:-1 ,天翼高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.133:5146
+#EXTINF:-1 ,天翼高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.220:5146
+#EXTINF:-1 ,天翼高清
+http://cysan.gzcy020.com.cn:50000/rtp/239.77.1.226:5146
