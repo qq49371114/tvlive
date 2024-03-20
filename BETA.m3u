@@ -1,11 +1,37 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="吉林都市" tvg-name="吉林都市" tvg-logo="https://epg.112114.xyz/logo/吉林都市.png" group-title="吉林",吉林都市
-http://stream1.jlntv.cn/dspd/sd/live.m3u8?zjild
-#EXTINF:-1,tvg-id="吉林公共" tvg-name="吉林公共" tvg-logo="https://epg.112114.xyz/logo/吉林公共.png" group-title="吉林",吉林公共
-http://stream1.jlntv.cn/ggpd/sd/live.m3u8?zjild
-#EXTINF:-1,tvg-id="吉林生活" tvg-name="吉林生活" tvg-logo="https://epg.112114.xyz/logo/吉林生活.png" group-title="吉林",吉林生活
-http://stream1.jlntv.cn/shpd/sd/live.m3u8?zjild
-#EXTINF:-1,tvg-id="吉林影院" tvg-name="吉林影院" tvg-logo="https://epg.112114.xyz/logo/吉林影院.png" group-title="吉林",吉林影院
-http://stream1.jlntv.cn/yspd/sd/live.m3u8?zjild
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="辽宁",辽宁新动漫
-http://113.117.74.12:8081/hls/115/index.m3u8
+#EXTINF:-1,tvg-id="收视导视高清" tvg-name="收视导视高清" tvg-logo="https://epg.112114.xyz/logo/收视导视.png" group-title="其他",收视导视高清
+http://110.185.240.185:55555/udp/239.93.1.39:5140
+#EXTINF:-1,tvg-id="G导视HD" tvg-name="G导视HD" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视HD
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18998910474&ptoken=SZESNUL4i2PcZZKV1JA9jw%3D%3D&pserialnumber=63eee104cf9602bf&cid=860&id=GHDdaoshi_7500
+#EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽",安徽导视
+https://epg.pw/stream/a7246583550aa4f39c3c5c71f7aaee412061387be1b7e5b57ad7c11513507106.m3u8
+#EXTINF:-1,tvg-id="湖南导视" tvg-name="湖南导视" tvg-logo="https://epg.112114.xyz/logo/湖南导视.png" group-title="湖南",湖南导视
+http://58.20.19.126:10999/tsfile/live/0003_1.m3u8
+#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="其他",杭州导视
+http://125.210.152.19:9123/live/hzgq-hzdsgq-h264.m3u8
+#EXTINF:-1,tvg-id="精品导视" tvg-name="精品导视" tvg-logo="https://epg.112114.xyz/logo/精品导视.png" group-title="其他",精品导视
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=jpdsH265_4000
+#EXTINF:-1,tvg-id="川网导视" tvg-name="川网导视" tvg-logo="https://epg.112114.xyz/logo/川网导视.png" group-title="其他",川网导视
+http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.20212021.tk.cdn.cloudflare.net/daili/liugongzi.php?id=cwdsHDH264_4000
+#EXTINF:-1,tvg-id="安徽导视" tvg-name="安徽导视" tvg-logo="https://epg.112114.xyz/logo/安徽导视.png" group-title="安徽",安徽导视
+https://livehls1.appcoo.com/liveshopping/949E0A98C9D0C311/6D925141BC1F8C28/index.m3u8
+#EXTINF:-1,tvg-id="梅州导视" tvg-name="梅州导视" tvg-logo="https://epg.112114.xyz/logo/梅州导视.png" group-title="其他",梅州导视
+http://120.236.57.77:9901/tsfile/live/1003_1.m3u8
+#EXTINF:-1,tvg-id="爱看导视" tvg-name="爱看导视" tvg-logo="https://epg.112114.xyz/logo/爱看导视.png" group-title="其他",爱看导视
+https://tv.youshijiea.cn/uploads/itvbox/cqgd.php?id=aikanHD
+#EXTINF:-1,tvg-id="广东导视" tvg-name="广东导视" tvg-logo="https://epg.112114.xyz/logo/广东导视.png" group-title="广东",广东导视
+http://60.208.16.27:1505/gudou.php?id=364&id=GHDdaoshi_7500
+#EXTINF:-1,tvg-id="江苏导视" tvg-name="江苏导视" tvg-logo="https://epg.112114.xyz/logo/江苏导视.png" group-title="江苏",江苏导视
+http://abcabc123.ml:4022/udp/239.49.8.150:6000
+#EXTINF:-1,tvg-id="重庆导视" tvg-name="重庆导视" tvg-logo="https://epg.112114.xyz/logo/重庆导视.png" group-title="重庆",重庆导视
+http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
+#EXTINF:-1,tvg-id="杭州导视" tvg-name="杭州导视" tvg-logo="https://epg.112114.xyz/logo/杭州导视.png" group-title="其他",杭州导视
+http://live.cooltv.top/tv/hz.php?id=22
+#EXTINF:-1,tvg-id="G导视高清" tvg-name="G导视高清" tvg-logo="https://epg.112114.xyz/logo/G导视.png" group-title="其他",G导视高清
+http://xiaozeng.aweitv.top/tv/gdtv.php?id=GHDdaoshi_7500
+#EXTINF:-1,tvg-id="四川达州导视" tvg-name="四川达州导视" tvg-logo="https://epg.112114.xyz/logo/四川达州导视.png" group-title="四川",四川达州导视
+http://live.goodiptv.club/api/sxg.php?id=dzds_2000
+#EXTINF:-1,tvg-id="山东日照导视" tvg-name="山东日照导视" tvg-logo="https://epg.112114.xyz/logo/山东日照导视.png" group-title="山东",山东日照导视
+http://live.rzw.com.cn/fcpd/sd/live.m3u8
+#EXTINF:-1,tvg-id="河南导视4K" tvg-name="河南导视4K" tvg-logo="https://epg.112114.xyz/logo/河南导视4K.png" group-title="河南",河南导视4K
+http://hbzx.chinashadt.com:2036/zhibo/stream:hbnm.stream/playlist.m3u8
