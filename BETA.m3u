@@ -3,3 +3,18 @@
 http://116.132.87.246:8888/newlive/live/hls/18/live.m3u8
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民
 http://116.132.87.246:8888/newlive/live/hls/25/live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="江西新闻频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-新闻频道.png" group-title="江西",江西新闻频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="江西都市频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-都市频道.png" group-title="江西",江西都市频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="江西公共农业" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-公共农业.png" group-title="江西",江西公共农业
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="江西教育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-江西教育.png" group-title="江西",江西教育
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="江西经济生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-经济生活.png" group-title="江西",江西经济生活
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="江西少儿频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-少儿频道.png" group-title="江西",江西少儿频道
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-影视旅游.png" group-title="江西",江西影视旅游
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
