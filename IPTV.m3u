@@ -334,9 +334,11 @@ http://home4.kmo.ink:8888/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="北京淘BABY" tvg-name="北京淘BABY" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京淘Baby.png" group-title="📺 北京頻道",北京淘BABY Ⅱ
 http://qnap.yjnhome.com:4000/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="房山无线" tvg-name="房山无线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/房山无线频道.png" group-title="📺 北京頻道",房山无线
-http://live.funhillrm.com/2/sd/live.m3u8
+https://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="房山有线" tvg-name="房山有线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/房山有线频道.png" group-title="📺 北京頻道",房山有线
+https://live.funhillrm.com/5/sd/live.m3u8
 #EXTINF:-1 tvg-id="石景山无线" tvg-id="石景山无线" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京石景山频道.png" group-title="📺 北京頻道",石景山无线
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
+https://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="京视剧场" tvg-name="京视剧场" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/京视剧场.png" group-title="📺 北京頻道",京视剧场
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226242/index.m3u8
 
@@ -623,6 +625,8 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
 #EXTINF:-1 tvg-id="西安教育eTV" tvg-name="西安教育eTV" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/西安教育.png" group-title="📺 陝西頻道",ETV•西安教育
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226371/index.m3u8
+#EXTINF:-1 tvg-id="西安移动电视" tvg-name="西安移动电视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/西安移动电视.png" group-title="陕西",西安移动电视
+https://xatv-yd1.xiancity.cn/live/7/index.m3u8
 
 #📺 黑龍江頻道
 #EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-name="黑龙江新闻法治" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/黑龙江新闻法治.png" group-title="📺 黑龍江頻道",黑龙江新闻法治
