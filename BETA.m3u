@@ -99,3 +99,16 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西安移动电视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-移动电视.png" group-title="陕西",西安移动电视
 https://xatv-yd1.xiancity.cn/live/7/index.m3u8
+
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331a4d7f.jpg",河北影视
+http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331c3572.jpg",河北经济生活
+http://live2.plus.hebtv.com/jjshx/playlist.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331b01a7.jpg",河北农民
+http://live3.plus.hebtv.com/nmpdx/playlist.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c3317672b.jpg",河北都市
+http://live3.plus.hebtv.com/hbdsx/playlist.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331c98b9.jpg",河北少儿科教
+http://live6.plus.hebtv.com/sekjx/playlist.m3u8
+#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c3319a339.jpg",河北公共
+http://live7.plus.hebtv.com/hbggx/playlist.m3u8
