@@ -1,8 +1,8 @@
 
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教
-http://116.132.87.246:8888/newlive/live/hls/18/live.m3u8
+http://116.132.87.246:8888/newlive/live/hls/30/live.m3u8
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民
-http://116.132.87.246:8888/newlive/live/hls/25/live.m3u8
+http://116.132.87.246:8888/newlive/live/hls/31/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="江西新闻频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-新闻频道.png" group-title="江西",江西新闻频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
@@ -27,3 +27,10 @@ https://live.funhillrm.com/5/sd/live.m3u8
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="通州电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",通州电视台
 http://pull.dayuntongzhou.com/live/tztv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="西安商务资讯" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-商务资讯.png" group-title="陕西",西安商务资讯
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西安丝路频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-丝路频道.png" group-title="陕西",西安丝路频道
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西安移动电视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-移动电视.png" group-title="陕西",西安移动电视
+https://xatv-yd1.xiancity.cn/live/7/index.m3u8
