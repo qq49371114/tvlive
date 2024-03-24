@@ -1,7 +1,12 @@
-#EXTM3U
-#EXTINF:-1,tvg-id="CATCHPLAY电影" tvg-name="CATCHPLAY电影" tvg-logo="https://epg.112114.xyz/logo/CATCHPLAY电影.png" group-title="其他",1905电影频道
-http://demo.dobe.top/1905/?id=1905_1
-#EXTINF:-1,tvg-id="1905回忆影院" tvg-name="1905回忆影院" tvg-logo="https://epg.112114.xyz/logo/回忆影院.png" group-title="其他",1905回忆影院
-http://demo.dobe.top/1905/?id=1905_2
-#EXTINF:-1,tvg-id="1905环球经典" tvg-name="1905环球经典" tvg-logo="https://epg.112114.xyz/logo/环球经典.png" group-title="其他",1905环球经典
-http://demo.dobe.top/1905/?id=1905_3
+#EXTINF:-1 tvg-id="河北生活" tvg-name="河北经济" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北经济生活.png" group-title="📺 河北頻道",河北经济生活
+http://116.132.87.246:8888/newlive/live/hls/20/live.m3u8
+#EXTINF:-1 tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北都市.png" group-title="📺 河北頻道",河北都市
+http://116.132.87.246:8888/newlive/live/hls/21/live.m3u8
+#EXTINF:-1 tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北影视剧.png" group-title="📺 河北頻道",河北影视剧
+http://116.132.87.246:8888/newlive/live/hls/22/live.m3u8
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教
+http://116.132.87.246:8888/newlive/live/hls/19/live.m3u8
+#EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北公共.png" group-title="📺 河北頻道",河北公共
+http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民
+http://116.132.87.246:8888/newlive/live/hls/24/live.m3u8
