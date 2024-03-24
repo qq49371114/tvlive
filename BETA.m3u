@@ -65,50 +65,7 @@ http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
 http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教
-http://116.132.87.246:8888/newlive/live/hls/30/live.m3u8
+http://116.132.87.246:8888/newlive/live/hls/18/live.m3u8
 #EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民
-http://116.132.87.246:8888/newlive/live/hls/31/live.m3u8
+http://116.132.87.246:8888/newlive/live/hls/17/live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="江西新闻频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-新闻频道.png" group-title="江西",江西新闻频道
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225615/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西都市频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-都市频道.png" group-title="江西",江西都市频道
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225584/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西公共农业" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-公共农业.png" group-title="江西",江西公共农业
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225578/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西教育" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-江西教育.png" group-title="江西",江西教育
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226197/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西经济生活" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-经济生活.png" group-title="江西",江西经济生活
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西少儿频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-少儿频道.png" group-title="江西",江西少儿频道
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-影视旅游.png" group-title="江西",江西影视旅游
-http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
-
-#EXTINF:-1 tvg-id="" tvg-name="房山电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",房山电视台
-https://live.funhillrm.com/2/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="房山有线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",房山有线
-https://live.funhillrm.com/5/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="石景山电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",石景山电视台
-http://live.sjsrm.com/bjsjs/sd/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="通州电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",通州电视台
-http://pull.dayuntongzhou.com/live/tztv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="西安商务资讯" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-商务资讯.png" group-title="陕西",西安商务资讯
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226368/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西安丝路频道" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-丝路频道.png" group-title="陕西",西安丝路频道
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226370/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西安移动电视" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/sn/Xian-移动电视.png" group-title="陕西",西安移动电视
-https://xatv-yd1.xiancity.cn/live/7/index.m3u8
-
-#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331a4d7f.jpg",河北影视
-http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
-#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331c3572.jpg",河北经济生活
-http://live2.plus.hebtv.com/jjshx/playlist.m3u8
-#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331b01a7.jpg",河北农民
-http://live3.plus.hebtv.com/nmpdx/playlist.m3u8
-#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c3317672b.jpg",河北都市
-http://live3.plus.hebtv.com/hbdsx/playlist.m3u8
-#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c331c98b9.jpg",河北少儿科教
-http://live6.plus.hebtv.com/sekjx/playlist.m3u8
-#EXTINF:-1 group-title="省市地方" tvg-logo="https://www.hualigs.cn/image/6159c3319a339.jpg",河北公共
-http://live7.plus.hebtv.com/hbggx/playlist.m3u8
