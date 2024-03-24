@@ -18,3 +18,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226206/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226194/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="" tvg-name="江西影视旅游" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/jx/Jiangxi-影视旅游.png" group-title="江西",江西影视旅游
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225579/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="" tvg-name="房山电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",房山电视台
+https://live.funhillrm.com/2/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="房山有线" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",房山有线
+https://live.funhillrm.com/5/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="石景山电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",石景山电视台
+http://live.sjsrm.com/bjsjs/sd/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="通州电视台" tvg-logo="https://huangsuming.codeberg.page/logo/tv/local/bj/" group-title="北京",通州电视台
+http://pull.dayuntongzhou.com/live/tztv.m3u8
