@@ -1,66 +1,66 @@
-#EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="苏州社会经济" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="苏州文化生活" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="苏州生活资讯" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="睢宁综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="睢宁生活教育" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="睢宁三农频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="睢宁资讯频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="姜堰新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="沭阳综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-#EXTINF:-1 tvg-id="" tvg-name="东海新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="高邮综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="仪征新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="仪征生活频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="宿豫综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="贾汪新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="贾汪旅游频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="沛县新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="泗阳综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="泗阳资讯频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="张家港新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="大丰公共频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="东台综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="盐都综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="宜兴新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8 ,undefined
-#EXTINF:-1 tvg-id="" tvg-name="宜兴紫砂频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="淮阴综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="金湖新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="金坛新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8,undefined
-#EXTINF:-1 tvg-id="" tvg-name="海安新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏",undefined
-http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8,undefined
+#EXTINF:-1 tvg-id="" tvg-name="苏州新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+https://tylive.kan0512.com/norecord/norecord_csztv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州社会经济" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+https://tylive.kan0512.com/norecord/norecord_csztv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州文化生活" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+https://tylive.kan0512.com/norecord/norecord_csztv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="苏州生活资讯" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+https://tylive.kan0512.com/norecord/norecord_csztv5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睢宁综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睢宁生活教育" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睢宁三农频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningsn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="睢宁资讯频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://suining-tv-hls.cm.jstv.com/suining-tv/suiningys.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="姜堰新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+https://jiangyan-tv-hls.cm.jstv.com/jiangyan-tv/jiangyanzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="沭阳综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="靖江新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+#EXTINF:-1 tvg-id="" tvg-name="东海新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://donghai-tv-hls.cm.jstv.com/donghai-tv/donghaixinwensp.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="高邮综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://gaoyou-tv-hls.cm.jstv.com/gaoyou-tv/gaoyouxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="仪征新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzxwzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="仪征生活频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://yizheng-tv-hls.cm.jstv.com/yizheng-tv/yzshsh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宿豫综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+https://suyu-tv-hls.cm.jstv.com/suyu-tv/syzhpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贾汪新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwxw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贾汪旅游频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://jiawang-tv-hls.cm.jstv.com/jiawang-tv/jwly.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="沛县新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://peixian-tv-hls.cm.jstv.com/peixian-tv/pxzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="泗阳综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="泗阳资讯频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://siyang-tv-hls.cm.jstv.com/siyang-tv/siyangzx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="张家港新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://3gvod.zjgonline.com.cn:1935/live/xinwenzonghe2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="大丰公共频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="东台综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://dongtai-tv-hls.cm.jstv.com/dongtai-tv/dongtaizonghe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="盐都综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://yandu-tv-hls.cm.jstv.com/yandu-tv/yanduzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="宜兴新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_xw.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="宜兴紫砂频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://yixing-tv-ori-hls.jstv.com/yixing-tv-ori/yixing_zs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="淮阴综合频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://huaiyin-tv-hls.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金湖新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="金坛新闻频道" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="海安新闻综合" tvg-logo="https://iptv-hsm.netlify.app/logo/local/jiangsu/" group-title="江苏"
+http://haian-tv-hls.cm.jstv.com/haian-tv/haaxwzh.m3u8
 
 #EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教
 http://116.132.87.246:8888/newlive/live/hls/18/live.m3u8
