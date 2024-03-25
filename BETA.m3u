@@ -1,15 +1,27 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://epg.112114.xyz/logo/河北公共.png" group-title="河北",河北公共
-http://111.225.113.130:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://epg.112114.xyz/logo/河北农民.png" group-title="河北",河北农民
-http://111.225.113.130:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://epg.112114.xyz/logo/河北少儿科教.png" group-title="河北",河北少儿科教
-http://111.225.113.130:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://epg.112114.xyz/logo/河北影视.png" group-title="河北",河北影视剧
-http://111.225.113.130:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="河北杂技" tvg-name="河北杂技" tvg-logo="https://epg.112114.xyz/logo/河北杂技.png" group-title="河北",河北杂技
-http://111.225.113.130:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="河北经济" tvg-name="河北经济" tvg-logo="https://epg.112114.xyz/logo/河北经济.png" group-title="河北",河北经济生活
-http://111.225.113.130:808/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1,tvg-id="河北都市" tvg-name="河北都市" tvg-logo="https://epg.112114.xyz/logo/河北都市.png" group-title="河北",河北都市
-http://111.225.113.130:808/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,tvg-id="中央电影国际" tvg-name="中央电影国际" tvg-logo="https://epg.112114.xyz/logo/中央电影国际.png" group-title="央视",中央电影国际
+http://110.72.70.103:8181/tsfile/live/1088_1.m3u8
+#EXTINF:-1,tvg-id="中国娱乐国际" tvg-name="中国娱乐国际" tvg-logo="https://epg.112114.xyz/logo/中国娱乐国际.png" group-title="其他",中国娱乐国际
+http://110.72.70.103:8181/tsfile/live/1092_1.m3u8
+#EXTINF:-1,tvg-id="重庆国际" tvg-name="重庆国际" tvg-logo="https://epg.112114.xyz/logo/重庆国际.png" group-title="重庆",重庆国际
+http://110.72.70.103:8181/tsfile/live/1071_1.m3u8
+#EXTINF:-1,tvg-id="澜湄国际" tvg-name="澜湄国际" tvg-logo="https://epg.112114.xyz/logo/澜湄国际.png" group-title="其他",澜湄国际
+http://110.72.70.103:8181/tsfile/live/1076_1.m3u8
+#EXTINF:-1,tvg-id="河南国际" tvg-name="河南国际" tvg-logo="https://epg.112114.xyz/logo/河南国际.png" group-title="河南",河南国际
+http://110.72.70.103:8181/tsfile/live/1073_1.m3u8
+#EXTINF:-1,tvg-id="安徽国际" tvg-name="安徽国际" tvg-logo="https://epg.112114.xyz/logo/安徽国际.png" group-title="安徽",安徽国际
+http://110.72.70.103:8181/tsfile/live/1074_1.m3u8
+#EXTINF:-1,tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://epg.112114.xyz/logo/浙江国际.png" group-title="浙江",浙江国际
+http://110.72.70.103:8181/tsfile/live/1075_1.m3u8
+#EXTINF:-1,tvg-id="北京国际频道" tvg-name="北京国际频道" tvg-logo="https://epg.112114.xyz/logo/北京国际频道.png" group-title="北京",北京国际
+http://110.72.70.103:8181/tsfile/live/1008_1.m3u8
+#EXTINF:-1,tvg-id="深圳国际" tvg-name="深圳国际" tvg-logo="https://epg.112114.xyz/logo/深圳国际.png" group-title="其他",深圳国际
+http://110.72.70.103:8181/tsfile/live/1077_1.m3u8
+#EXTINF:-1,tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://epg.112114.xyz/logo/湖南国际.png" group-title="湖南",湖南国际
+http://110.72.70.103:8181/tsfile/live/1069_1.m3u8
+#EXTINF:-1,tvg-id="江苏国际" tvg-name="江苏国际" tvg-logo="https://epg.112114.xyz/logo/江苏国际.png" group-title="江苏",江苏国际
+http://110.72.70.103:8181/tsfile/live/0127_1.m3u8
+#EXTINF:-1,tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.112114.xyz/logo/海峡卫视.png" group-title="卫视",海峡卫视
+http://110.72.70.103:8181/tsfile/live/0150_1.m3u8
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视
+http://110.72.70.103:8181/tsfile/live/1070_1.m3u8
