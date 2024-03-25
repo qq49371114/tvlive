@@ -53,7 +53,7 @@
 
 ## 💡致谢：
 - Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
-- [erc.cc](https://epg.erw.cc/)及[51zmt.top](http://epg.51zmt.top:8000/)提供的epg接口[`特别感谢`]
+- [erc.cc](https://epg.erw.cc/)及[112114.eu.org](https://epg.112114.eu.org/pp.xml)提供的epg接口[`特别感谢`]
 - GitHub及互联网其他资源[`特别感谢`]
 
 <u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
