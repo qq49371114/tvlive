@@ -520,13 +520,13 @@ http://111.225.113.130:808/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=
 http://116.132.87.246:8888/newlive/live/hls/23/live.m3u8
 #EXTINF:-1 tvg-id="河北公共" tvg-name="河北公共" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北公共.png" group-title="📺 河北頻道",河北公共•保定
 http://111.225.113.130:808/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教•邯郸
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教•保定 Ⅰ
 http://zdwjl.eatuo.com:808/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教•保定
+#EXTINF:-1 tvg-id="河北少儿科教" tvg-name="河北少儿科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北少儿科教.png" group-title="📺 河北頻道",河北少儿科教•保定 Ⅱ
 http://111.225.113.130:808/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民•邯郸
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民•保定 Ⅰ
 http://zdwjl.eatuo.com:808/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民•保定
+#EXTINF:-1 tvg-id="河北农民" tvg-name="河北农民" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北农民.png" group-title="📺 河北頻道",河北农民•保定 Ⅱ
 http://111.225.113.130:808/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1,tvg-id="河北杂技" tvg-name="河北杂技" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/河北杂技.png" group-title="📺 河北頻道",河北杂技•保定
 http://111.225.113.130:808/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
