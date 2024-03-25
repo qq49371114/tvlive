@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1,翡翠台（廣電 IPv6）
+https://iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1,明珠台（廣電 IPv6）
+https://iptv.hiper25.com/Pearl/video.m3u8
+#EXTINF:-1,澳門澳視（廣電 IPv6）
+https://iptv.hiper25.com/TDM/video.m3u8
+#EXTINF:-1,廣東衛視（廣電 IPv6）
+https://iptv.hiper25.com/gdws/video.m3u8
+#EXTINF:-1,廣東珠江（廣電 IPv6）
+https://iptv.hiper25.com/gdzj/video.m3u8
+#EXTINF:-1,廣東體育（廣電 IPv6）
+https://iptv.hiper25.com/gdty/video.m3u8
+#EXTINF:-1,廣東民生（廣電 IPv6）
+https://iptv.hiper25.com/gdms/video.m3u8
+#EXTINF:-1,廣東經濟科教（廣電 IPv6）
+https://iptv.hiper25.com/gdjjkj/video.m3u8
+#EXTINF:-1,大灣區衛視（廣電 IPv6）
+https://iptv.hiper25.com/dwq/video.m3u8
+#EXTINF:-1,CCTV-4K（廣電 IPv6）
+https://iptv.hiper25.com/CCTV-4K/video.m3u8
