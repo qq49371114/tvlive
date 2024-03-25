@@ -751,14 +751,10 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 https://yang-1989.eu.org/jd/fhxg
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰香港.png" group-title="📺 港澳台頻道",鳳凰衛視香港 Ⅱ
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰中文.png" group-title="📺 港澳台頻道",鳳凰衛視中文 Ⅰ
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰中文.png" group-title="📺 港澳台頻道",鳳凰衛視中文
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰中文.png" group-title="📺 港澳台頻道",鳳凰衛視中文 Ⅱ
-http://171.214.225.189:5555/udp/239.93.0.162:2192
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊 Ⅰ
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊
 http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
-#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/凤凰资讯.png" group-title="📺 港澳台頻道",鳳凰衛視資訊 Ⅱ
-http://171.214.225.189:5555/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/纬来体育.png" group-title="📺 港澳台頻道",緯來體育
 https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 #EXTINF:-1,tvg-id="TVBS欢乐" tvg-name="TVBS欢乐台" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/TVBS欢乐.png" group-title="📺 港澳台頻道",歡樂•TVBS
