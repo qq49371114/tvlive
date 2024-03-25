@@ -28,14 +28,6 @@
 
 **科普**🎭：电子节目指南（electrical program guide，简称EPG）是Electronic Program Guide的英文缩写，意思是电子节目菜单，即**节目预告**。
 
-### 📝关于TVBOX和DIYP上的EPG接口
-
-- erw.cc：`https://epg.erw.cc/api/diyp/?ch={name}&date={date}` *<u>推荐✨节目信息比较准确</u>*
-
-- 112114：`https://epg.112114.xyz/?ch={name}&date={date}` <u>*推荐✨节目覆盖范围较广*</u>
-
-<u>注：本仓库只提供tvxml格式的EPG(即节目预告)，TVbox和DIYP使用的是EPG接口，不适用于本仓库的，对于TVbox和DIYP用户推荐使用以上两个EPG接口。</u>
-
 ## 🎬IPTV播放器
 📺**Android TV：**[Tivimate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=zh&gl=US)[强烈推荐✨✨`app付费，但体验极好`]，[Televizo](https://files.televizo.net/televizo-default.apk)
 
