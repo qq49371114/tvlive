@@ -303,19 +303,19 @@ http://mywlkj.ddns.net:754/tv/1905.php?id=1905a
 http://mywlkj.ddns.net:754/tv/1905.php?id=1905b
 
 #📺 北京頻道
-#EXTINF:-1,tvg-id="北京文艺" tvg-name="北京文艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京文艺.png" group-title="📺 北京頻道",BTV文艺
+#EXTINF:-1,tvg-id="北京文艺" tvg-name="BTV文艺" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京文艺.png" group-title="📺 北京頻道",BTV文艺
 http://183.242.49.77:8787/live/BTV文艺/index.m3u8
-#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京影视.png" group-title="📺 北京頻道",BTV影视
+#EXTINF:-1,tvg-id="北京影视" tvg-name="BTV影视" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京影视.png" group-title="📺 北京頻道",BTV影视
 http://183.242.49.77:8787/live/BTV影视/index.m3u8
-#EXTINF:-1,tvg-id="北京财经" tvg-name="北京财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京财经.png" group-title="📺 北京頻道",BTV财经
+#EXTINF:-1,tvg-id="北京财经" tvg-name="BTV财经" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京财经.png" group-title="📺 北京頻道",BTV财经
 http://183.242.49.77:8787/live/BTV财经/index.m3u8
-#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京体育休闲.png" group-title="📺 北京頻道",BTV体育休闲
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="BTV体育休闲" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京体育休闲.png" group-title="📺 北京頻道",BTV体育休闲
 http://183.242.49.77:8787/live/BTV体育/index.m3u8
-#EXTINF:-1,tvg-id="北京生活" tvg-name="北京生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京生活.png" group-title="📺 北京頻道",BTV生活
+#EXTINF:-1,tvg-id="北京生活" tvg-name="BTV生活" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京生活.png" group-title="📺 北京頻道",BTV生活
 http://183.242.49.77:8787/live/BTV生活/index.m3u8
-#EXTINF:-1,tvg-id="北京国际" tvg-name="北京国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京国际.png" group-title="📺 北京頻道",BTV国际
+#EXTINF:-1,tvg-id="北京国际" tvg-name="BTV国际" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京国际.png" group-title="📺 北京頻道",BTV国际
 http://183.242.49.77:8787/live/BTV国际/index.m3u8
-#EXTINF:-1,tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京新闻.png" group-title="📺 北京頻道",BTV新闻
+#EXTINF:-1,tvg-id="北京新闻" tvg-name="BTV新闻" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/北京新闻.png" group-title="📺 北京頻道",BTV新闻
 http://183.242.49.77:8787/live/BTV新闻/index.m3u8
 #EXTINF:-1,tvg-id="纪实科教" tvg-name="纪实科教" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/ClodQiu/LIVE/Grey/LOGO/纪实科教.png" group-title="📺 北京頻道",BTV纪实科教
 http://183.242.49.77:8787/live/BTV科教/index.m3u8
