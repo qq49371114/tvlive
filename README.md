@@ -16,12 +16,12 @@
 本项目不存储任何的流媒体内容，所有的法律责任与后果应由使用者自行承担。
 
 <p>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ClodQiu/TVBox">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/ClodQiu/TVBox">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/ClodQiu/TVBox">
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/ClodQiu/TVBox">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ClodQiu/TVBox">
-<img alt="GitHub" src="https://img.shields.io/github/license/ClodQiu/TVBox">
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/ClodQiu/LIVE">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/ClodQiu/LIVE">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/ClodQiu/LIVE">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/ClodQiu/LIVE">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/ClodQiu/LIVE">
+<img alt="GitHub" src="https://img.shields.io/github/license/ClodQiu/LIVE">
 </p>
 
 ## 🛠️EPG
